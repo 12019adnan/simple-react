@@ -1,0 +1,37 @@
+.product-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.cal-container{
+    background-color:#6666661a;
+    margin-right: 20px;
+}
+.cal-container h2{
+    /* color: white; */
+    text-align: center;
+}
+
+/* ************************-------------------------************************** */
+@media screen and (max-width: 1200px) {
+    .product-cards{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        }
+    }
+@media screen and (max-width: 600px) {
+    .product-container{
+        overflow: hidden;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .product-cards{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    }
+@media screen and (max-width: 500px) {
+    .cal-container{
+        margin-right: 8px;
+    }
+    }

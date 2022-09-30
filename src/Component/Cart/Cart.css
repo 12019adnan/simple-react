@@ -1,0 +1,107 @@
+.product-image{
+    width: 320px;
+    height: 320px;
+    margin-left: 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.product-image:hover{
+    transition: ease-in-out 1.5s;
+    transform: scale(1.05);
+}
+.product-card{
+    /* width: 800px; */
+    height: 570px;
+    border-radius: 8px;
+    background-color: rgba(128, 128, 128, 0.222);
+    width: 350px;
+    margin-left: 28px;
+    margin-right: 20px;
+    margin-top: 50px;
+    position: relative;
+}
+.product-card:hover{
+    transition: ease-in 500ms;
+    transform: scale(1.03);
+}
+
+.product-cards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.product-card-detail a{
+    display: flex;
+    text-decoration: none;
+    color: black;
+    /* color: black; */
+    margin-left: 22px;
+    font-size: large;
+    font-weight:600;
+    margin-bottom: 0px;
+    margin-top: 15px;
+    /* gap: 0px; */
+    padding-top: 0px;
+    /* transform: scale(1); */
+}
+.product-card-detail a:hover{
+    color: #055fde;
+    cursor: pointer;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0px;
+    left: 25%;
+    display: flex; 
+    justify-content: center;
+    width: 50%;
+    height: 30px;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    background-color:  #bcbcbc;
+    margin-bottom: 10px;
+    font-weight: 600;
+
+}
+.button:hover{
+    background-color: #acada8;
+    cursor: pointer;
+}
+
+/* *********************-------------------------************************* */
+@media screen and (max-width: 1200px) {
+    .product-card{
+    width: 200px;
+    height: 465px;
+    }
+    .product-image{
+        height: 170px;
+        width: 170px;
+    }
+    }
+
+    @media screen and (max-width: 600px) {
+        .product-card{
+            width: 200px;
+            height: 460px;
+            margin-left:10px ;
+            }
+            .product-image{
+                height: 170px;
+                width: 170px;
+            }
+    }
+
+    /* @media screen and (max-width: 500px) {
+        .product-card{
+            width: 200px;
+            height: 450px;
+            margin-left: 8px;
+            }
+            .product-image{
+                height: 160px;
+                width: 160px;
+            }
+    } */

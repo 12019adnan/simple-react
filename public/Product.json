@@ -1,0 +1,110 @@
+[
+    {
+      "id": "6331ce8a0aa980a8119f10e4",
+      "index": 0,
+      "brand": "Gigabyte",
+      "name": "Gigabyte B550M DS3H ",
+      "price": "10200",
+      "tax": "10",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/b550m-ds3h/b550m-ds3h-500x500.jpg"
+    },
+    {
+      "id": "6331ce8ae28b1b346ac64ece",
+      "index": 1,
+      "brand": "Aula ",
+      "name": "Mouse Aula Gaming S20",
+      "price": "2069",
+      "tax": "8",
+      "image": "https://www.techlandbd.com/image/cache/catalog/Mouse/Aula/s20/S20%20mouse-3.jpg-483x483.jpg"
+    },
+    {
+      "id": "6331ce8a9b4c968c18373431",
+      "index": 2,
+      "brand": "Hp",
+      "name": "HP 22f 22'FHD IPS Monitor",
+      "price": "16700",
+      "tax": "6",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/m22f/m22f-500x500.jpg"
+    },
+    {
+      "id": "6331ce8a062cef61bac854bb",
+      "index": 3,
+      "brand": "T-Force",
+      "name": "Team T-Force VULCAN Z Red 8GB DDR4 3200MHz Desktop Gaming RAM",
+      "price": "3450",
+      "tax": "3",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/team/vulcan-z/vulcan-z-500x500.jpg"
+    },
+    {
+      "id": "6331ce8ad4d3ff1553b7b393",
+      "index": 4,
+      "brand": "KingsMan",
+      "name": "AITC KINGSMAN KM600 256GB M.2 NVMe PCIe SSD",
+      "price": "3500",
+      "tax": "3",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/kingsman/km600/km600-02-500x500.jpg"
+    },
+    {
+      "id": "6331ce8ad2827e993a0dd0ae",
+      "index": 5,
+      "brand": "Tornado",
+      "name": "Safeway Tornado MTG-1921 Mid Tower ATX Gaming Case ",
+      "price": "4100",
+      "tax": "9",
+      "image": "https://www.techlandbd.com/image/cache/wp/gj/Casing/Safeway%20/TORNADO%20MTG-1921/safeway-tornado-mtg-1921-gaming-case-1.jpg-483x483.webp"
+    },
+    {
+      "id": "6331ce8ab9b7728a9b8946e4",
+      "index": 6,
+      "brand": "Redragon",
+      "name": "Redragon RGPS GC-PS001 500W 80 Plus Bronze Non-Modular Power Supply",
+      "price": "3800",
+      "tax": "12",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/redragon/gc-ps001/redragon-rgps-gc-ps001-80-plus-bronze-power-supply-01-500x500.jpg"
+    },
+    {
+      "id": "6331ce8ae16c63934801f6fb",
+      "index": 7,
+      "brand": "Kirio",
+      "name": "KTRIO Large Gaming Mouse Pad",
+      "price": "1700",
+      "tax": "2",
+      "image": "https://m.media-amazon.com/images/I/61PPT1-yKUL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "6331ce8aa69133bae3d0d730",
+      "index": 8,
+      "brand": "Gigabyte",
+      "name": "Gigabyte GeForce RTX 3050 Gaming OC 8GB GDDR6 Graphics Card",
+      "price": "45500",
+      "tax": "17",
+      "image": "https://www.skyland.com.bd/wp-content/uploads/rtx-3050-gaming-oc-01.jpg"
+    },
+    {
+      "id": "6331ce8a85be393531e45fe7",
+      "index": 9,
+      "brand": "AMD",
+      "name": "AMD Ryzen 5 5600G Processor with Radeon Graphics",
+      "price": "20200",
+      "tax": "9",
+      "image": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-5600g/ryzen-5-5600g-500x500.jpg"
+    },
+    {
+      "id": "6331ce8aa38b203a3f7aa87a",
+      "index": 10,
+      "brand": "E-YOOSO",
+      "name": "E-YOOSO Z11 61 Keys Wired RGB Mechanical Gaming Keyboard (Outemu Blue)",
+      "price": "3400",
+      "tax": "0",
+      "image": "https://ae01.alicdn.com/kf/Sa2334651d21d454c9ebbab5f7d7e19b2T.jpg"
+    },
+    {
+      "id": "6331ce8adf7340418ab7460d",
+      "index": 11,
+      "brand": "Fantect",
+      "name": "Fantech HG17S Visage II RGB Illuminated Gaming Headset Black",
+      "price": "1250.00",
+      "tax": "0",
+      "image": "https://www.startech.com.bd/image/cache/catalog/headset/fantech/hg17-visage-ii/hg17-visage-ii-500x500.jpg"
+    }
+  ]
